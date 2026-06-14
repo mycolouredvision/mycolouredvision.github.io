@@ -1,6 +1,5 @@
 +++
 date = '2026-06-12T12:47:03+05:30'
-draft = true
 title = 'Side Eye 1'
 +++
 

@@ -1,6 +1,5 @@
 +++
 date = '2026-06-12T12:48:03+05:30'
-draft = true
 title = 'Did I'
 +++
 
