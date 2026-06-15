@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mycolouredvision.github.io/'
 locale = 'en-us'
 title = 'My Coloured Vision'
 theme = 'PaperMod'
+
+[params]
+mainSections = ['posts']
